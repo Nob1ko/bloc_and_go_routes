@@ -1,0 +1,82 @@
+# Flutter generated files
+.dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Miscellaneous
+*.log
+*.lock
+*.pyc
+*.pyo
+*.swp
+
+# Build output
+build/
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+*.xcworkspace
+*.xcodeproj
+*.xcuserdata
+
+# Android
+.android
+app/*.iml
+app/src/debug/
+app/src/profile/
+app/src/main/res/drawable-*
+app/src/main/res/raw/camera_sound.mp3
+local.properties
+**/gradle-wrapper.properties
+
+# IntelliJ related
+*.idea/
+*.iml
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+.history/
+
+# Obsolete
+flutter_*
+
+# Web related
+web/.sass-cache/
+web/build/
+
+# Mac
+*.DS_Store
+
+# Linux
+linux/Makefile
+linux/CMakeLists.txt
+linux/flutter/CMakeLists.txt
+linux/flutter/ephemeral/
+
+# Windows
+windows/CMakeLists.txt
+windows/flutter/CMakeLists.txt
+windows/flutter/ephemeral/
+
+# Additional settings (optional)
+.env
+*.log
+pubspec.lock
